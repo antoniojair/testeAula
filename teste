@@ -1,0 +1,11 @@
+public class AJ_BiscaStart {
+	public static void main(String[] args) {
+		// AJ_TelaPrincipal obj = new AJ_TelaPrincipal();
+		//AJ_TelaPrincipal obj = new AJ_TelaPrincipal();
+		//obj.criar();
+		// obj.f.setVisible(true);
+		// obj.f.setExtendedState(0);
+
+	}
+
+}
